@@ -12,7 +12,7 @@ img {
 
 .things {
     float: center;
-    width: 200 px;
+    width: 250 px;
     height: 200 px;
 }
 
@@ -26,6 +26,8 @@ body {
     background-image: url("../images/silver_scales.png");
     background-repeat: repeat;
 }  
+
+
 
 p {
     margin-top: 100px;
